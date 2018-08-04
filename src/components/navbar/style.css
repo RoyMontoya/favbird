@@ -1,0 +1,11 @@
+.header-link {
+  color: black;
+}
+
+#override a{
+  color: black;
+}
+
+.nav-link a{
+  color: black !important;
+}
